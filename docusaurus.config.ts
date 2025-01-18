@@ -6,8 +6,8 @@ import type * as Preset from '@docusaurus/preset-classic';
 
 const config: Config = {
     // TODO: fix title, tagline, favicon
-    title: 'my website',
-    tagline: 'my website tagggg',
+    title: 'this is a webpage',
+    tagline: 'the real one',
     favicon: 'img/favicon.ico',
 
     // TODO( github project link )
@@ -69,7 +69,7 @@ const config: Config = {
             // TODO( navigation bar logo image url)
             logo: {
                 alt: 'HDTM Logo',
-                src: 'img/logo.svg',
+                src: 'img/dog.svg',
             },
             items: [
                 {

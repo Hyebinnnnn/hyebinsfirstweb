@@ -21,7 +21,7 @@ function HomepageHeader() {
                     <Link
                         className="button button--secondary button--lg"
                         to="/docs/intro">
-                        프로그래밍 배우기!!!
+                        토스트마스터즈모임
                         How to Join - 1min ⏱️
                     </Link>
                 </div>
